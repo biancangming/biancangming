@@ -1,4 +1,5 @@
 
+### 成就
 
 ![](https://github-readme-stats.vercel.app/api?username=biancangming&show_icons=true&hide_title=true)
 
@@ -6,8 +7,6 @@
 - blog: https://www.bianbingdang.com/
 - wx: bianbingdang123
 
-### 成就
-![](https://github-profile-trophy.vercel.app/?username=biancangming)
 <!--
 **biancangming/biancangming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
