@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=biancangming&show_icons=true&hide_title=true)
 
 ### Hi there 👋
-- blog: https://www.bianbingdang.com/
+- blog: https://yigechengzi.pro/
 - wx: bianbingdang123
 
 <!--
